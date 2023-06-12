@@ -20,7 +20,7 @@ Cinematica-Movies is a React-based movie website that allows users to search for
 
 # 🍿 Technology
 
-BlueBird-Movies is built using the following technologies:
+Cinematica-Movies is built using the following technologies:
 
 - ReactJS
 - TMDB API
