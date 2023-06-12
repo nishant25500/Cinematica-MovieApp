@@ -4,7 +4,7 @@ Cinematica-Movies is a React-based movie website that allows users to search for
 
 <!-- ![background]([https://user-images.githubusercontent.com/87109400/231843668-00e0d9aa-8447-4148-8a3a-0b68135c0795.png](https://ibb.co/C1bL1cs)) -->
 
-<hr/>
+<!-- <hr/> -->
 
 # 🍿 Features 
 
